@@ -18,7 +18,7 @@
   <h2>RECEITA DO DIA: PANQUECA AMERICANA RÁPIDA</h2>
   <p>Uma receita perfeita para o café da manhã de domingo. Fica pronto em menos de 15 minutos!</p>
 
-  <img src="<img width="464" height="279" alt="image" src="https://github.com/user-attachments/assets/3cfca792-5b74-4c9a-b397-ca780d049d5e" />
+  <img width="464" height="279" alt="image" src="https://github.com/user-attachments/assets/3cfca792-5b74-4c9a-b397-ca780d049d5e" />
 " alt="Pilha de panqueca com mel" width="400">
 
   <h3>Ingredientes</h3>
