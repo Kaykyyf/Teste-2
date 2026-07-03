@@ -1,4 +1,3 @@
-# Teste-2
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -12,13 +11,13 @@
     <h1>O LIVRO DE RECEITAS DIGITAL</h1>
     <p>APRENDA A COZINHAR DE FORMA SIMPLES E RÁPIDO.</p>
   </header>
-<hr>
+  <hr>
 <!-- CONTEÚDO PRINCIPAL -->
 <main>
   <h2>RECEITA DO DIA: PANQUECA AMERICANA RÁPIDA</h2>
   <p>Uma receita perfeita para o café da manhã de domingo. Fica pronto em menos de 15 minutos!</p>
 
-  <img> width="464" height="279" alt="image" </img>
+  <img src = "width="464" height="279" alt="image" src= >
 " alt="Pilha de panqueca com mel" width="400">
 
   <h3>Ingredientes</h3>
