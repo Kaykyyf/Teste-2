@@ -18,7 +18,8 @@
   <h2>RECEITA DO DIA: PANQUECA AMERICANA RÁPIDA</h2>
   <p>Uma receita perfeita para o café da manhã de domingo. Fica pronto em menos de 15 minutos!</p>
 
-  <img src="https://www.google.com/imgres?q=foto%20de%20pilhas%20de%20panqueca%20amelicano&imgurl=https%3A%2F%2Fi0.wp.com%2Fareademulher.r7.com%2Fwp-content%2Fuploads%2F2022%2F03%2Fpanqueca-americana-a-receita-original.webp%3Ffit%3D1200%252C802%26ssl%3D1&imgrefurl=https%3A%2F%2Fareademulher.r7.com%2Freceitas%2Freceita-de-panqueca-americana%2F&docid=V1gEhIOsdgGncM&tbnid=YBWSUqLBSU0YyM&vet=12ahUKEwimmsOJz7aVAxUPs5UCHVARJC0QnPAOegUInwIQAA..i&w=1200&h=802&hcb=2&ved=2ahUKEwimmsOJz7aVAxUPs5UCHVARJC0QnPAOegUInwIQAA" alt="Pilha de panqueca com mel" width="400">
+  <img src="<img width="464" height="279" alt="image" src="https://github.com/user-attachments/assets/3cfca792-5b74-4c9a-b397-ca780d049d5e" />
+" alt="Pilha de panqueca com mel" width="400">
 
   <h3>Ingredientes</h3>
   <ul>
